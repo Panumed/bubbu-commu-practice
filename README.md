@@ -1,1 +1,1 @@
-"Bubbu Community" 
+"Version 1.0" 
